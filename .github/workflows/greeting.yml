@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Greet the user
-        run: echo "Hello, GitHub Actions!"
+        run: echo ls -R
