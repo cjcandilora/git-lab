@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Greet the user
-        run: echo ls -R
+        run: ls -R
